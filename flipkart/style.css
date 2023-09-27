@@ -1,0 +1,195 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.starting{
+    display: flex;
+    margin: 0vh;
+    padding: 0vw;
+     background-color:rgb(10, 10, 10);
+     height:50px;
+     
+    
+}
+
+.content{
+ display: flex; 
+ margin-top:0.5% ;
+ height:70%;
+    color: white;
+
+}
+.second{
+    display: flex;
+    margin-left: 9px;
+    padding: 8px;
+    color: white;
+}
+.flip
+{display: flex;
+    padding: 7px;
+    height: 40px;
+    margin-left: 30px;
+}
+.hihi{
+    border: none;
+padding: 7.7px;
+height: 80%;
+border-top-left-radius: 7px;
+border-bottom-left-radius: 7px;
+
+margin-top: 59%;
+margin-right: -39.5px;
+    color: rgb(204, 208, 211);
+   background-color: white;
+
+}
+.third{
+    color: aliceblue;
+ display: flex;
+ margin: 9px;
+ width: 5px;
+}
+
+@keyframes a {
+    from{width: 20px;}
+         to{width:20px;}
+    
+}
+#a{
+    border:none;
+  
+}
+.cars{
+    border: none;
+    width: 40px;
+    
+    margin-left: 0px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height: 50px;
+}
+.india{
+    margin:16px 0px 1px 2px;
+}
+.sea{
+    padding:7.7;
+height:40px;
+margin:7px 0px 1px -9px;
+border-top-right-radius:9px ;
+border-bottom-right-radius:9px ;
+margin-right: 9px;
+}
+.s{
+    width: 80%;
+    border: none;
+    
+    margin: 10px 0px 0px 10px;
+    color: white;
+    background-color: black;
+    height: 70%;
+}
+.retu{
+    color: white;
+    width: 80px;
+}
+.cart{
+    margin-top: 0.5%;
+}
+.mid{
+    display:flex;
+    height: 40px;
+    background-color: rgb(40, 48, 78);
+}
+.cat{
+    height: 70px;
+    margin: 7px 0px 0px -80px;
+
+}
+.m{
+    margin: 10px 0px 0px 0px;
+    color: white;
+}
+.a{
+    margin: 10px 0px 0px 7px;
+    color: aqua;
+}
+.b{
+    
+    color: white;
+    margin:9px;
+}
+/* .b a{
+    text-decoration: none;
+    color: white;
+} */
+/* .b:hover{
+    border: 3px;
+} */
+
+.c{
+ color: white;
+ margin: 9px 0px 0px 0px;
+}
+.d{
+color: white;
+margin:9px;
+}
+.e{
+color:white;
+margin:9px;
+}
+.f{
+    color:white;
+    margin:9px;
+    }
+    .g{
+        color:white;
+        margin:9px;
+        }
+        .h{
+            border: none;
+            color:white;
+            background-color: rgb(40, 48, 78);
+           margin:9px;        
+        }
+        .i{
+            color:white;
+            margin:9px;
+            }
+
+        .j{
+                color:white;
+                margin:9px;
+                }
+      .k{
+                    color:white;
+                    margin:9px;
+                    }
+    .l{
+                        color:white;
+                        margin:9px;
+                        }
+.m{
+    color:white;
+    margin:9px;
+    }
+    .n{
+        color:white;
+        margin:9px;
+        }
+        .o{
+            color:white;
+            margin:9px;
+            }
+            .p{
+                color:white;
+                margin:9px;
+                }
+                /* .q{
+                    width: 10%;
+                } */
